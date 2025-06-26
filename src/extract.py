@@ -7,25 +7,25 @@ import urllib
 
 def connect():
     config = configparser.ConfigParser()
-    config.read(r"C:\Users\Harshavardhan\Documents\python_tutorials\Task 24\config.config")
+    config.read(r"C:\Users\Harshavardhan\Documents\python_tutorials\ETL Pipeline\src\config.config")
 
     print("Sections found:", config.sections())
 
-    #connecting SQL SERVER
     Driver = config['ssms']['Driver']
     Server = config['ssms']['Server']
     Database = config['ssms']['Database']
     trusted_conn = config['ssms']['Trusted_Connection']
 
-    conn = pyodbc.connect(
-            f'Driver={Driver};'
-            f'Server={Server};'
-            f'Database={Database};'
-            f'Trusted_Connection=yes;'
-
+    # NEW: Use SQLAlchemy-compatible engine
+    params = urllib.parse.quote_plus(
+        f"DRIVER={Driver};SERVER={Server};DATABASE={Database};Trusted_Connection={trusted_conn}"
     )
 
-    return conn
+    engine = create_engine(f"mssql+pyodbc:///?odbc_connect={params}")
+    return engine  #  SQLAlchemy engine
+    print("Reading config from: C:\\Users\\Harshavardhan\\Documents\\python_tutorials\\ETL\\config.config")
+
+
 # Connecting to SSMS
 # Configuring the credentials
 def read_data():
@@ -54,12 +54,12 @@ def read_incremental_data():
     incremental = incremental[incremental['shipped_date'] <= today]
 
     return incremental
-print(read_incremental_data())
+
 
 # Connecting to MYSQL 
 def mysql_read_data():
     config = configparser.ConfigParser()
-    config.read(r'C:\Users\Harshavardhan\Documents\python_tutorials\Task 24\config.config')
+    config.read(r"C:\Users\Harshavardhan\Documents\python_tutorials\ETL Pipeline\src\config.config")
     
     host     = config['MySQL']['host']
     username = config['MySQL']['user']
@@ -85,7 +85,7 @@ def mysql_read_data():
     orders=pd.read_sql_query(orders,con=engine)
     return orders
 
-print(mysql_read_data())
+# print(mysql_read_data())
 
 def read_new_orders():
 
@@ -93,3 +93,4 @@ def read_new_orders():
     new_orders = pd.read_sql(query, connect())
 
     return new_orders
+
