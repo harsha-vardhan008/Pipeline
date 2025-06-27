@@ -2,9 +2,6 @@ import configparser
 import pandas as pd 
 from  pymongo import MongoClient
 
-
-
-
 def extract():
     config=configparser.ConfigParser()
     config.read(r"C:\Users\Harshavardhan\Documents\python_tutorials\MangoDB\config.config")
