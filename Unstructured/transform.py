@@ -83,5 +83,3 @@ def trans(df):
         milestone_df,
         fact_df
     )
-
-   
