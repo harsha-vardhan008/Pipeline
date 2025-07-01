@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pandas as pd
 import boto3
 import configparser
@@ -29,3 +30,21 @@ def extract():
     # Convert to DataFrame (optional)
     df = pd.DataFrame(items)
     return df
+=======
+import configparser
+import pandas as pd 
+from  pymongo import MongoClient
+
+def extract():
+    config=configparser.ConfigParser()
+    config.read(r"C:\Users\Harshavardhan\Documents\python_tutorials\MangoDB\config.config")
+    url=config['mongo']['url']
+    client=MongoClient(url)
+    db= client['First']
+    collection=db["Unstructured"]
+    doc=list(collection.find())
+    df=pd.DataFrame(doc)
+    return df
+
+extract()
+>>>>>>> 703d8bdf800d01b810c45363edc031b117b13b01
