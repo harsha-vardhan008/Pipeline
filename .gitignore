@@ -5,6 +5,11 @@ config.ini
 *.key
 *.pem
 
+ETL Pipeline/
+Task 24/
+task 17-23/
+orders.csv
+
 # Ignore Python cache files
 __pycache__/
 *.pyc
