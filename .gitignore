@@ -1,0 +1,17 @@
+# Ignore config and secret files
+config.config
+config.ini
+.env
+*.key
+*.pem
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
