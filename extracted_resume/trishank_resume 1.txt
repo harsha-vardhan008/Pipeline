@@ -1,0 +1,55 @@
+M TRISHANK  
+32, kakaguda,  Secunderabad -15| mandala.trishank@gmail.com  | +91 9247244111 |  LinkedIn  
+ 
+Education  
+Teegala Krishna Reddy Engineering College                                                                        2021 -2025                                  
+Bachelor of Technology in Computer Science Engineering | CGPA: 8.0/10  
+Bhavans Sri Aurobindo Junior College                                                                                2019 -2021  
+Intermediate | Percentage:  75.60%  
+ST. Pious X  School  ICSE, Alwal                                                                                        2019  
+Secondary  Education  | Percentage: 74% 
+ 
+Skills  
+Programming Languages : C, C++, Java, Python , PHP         Web Development : HTML,  CSS, JavaScript , WordPress  
+Cloud Services:  Azure, Azure AI Video Indexer                      Database Management:  MySQL  
+ 
+Professional Training /Courses  
+• Java Spring Boot  – TNS India Foundation  (2024)  
+Focused on backend development  using Spring Boot, covering REST APIs, database integration.  
+• Microsoft Azure AI -102 – ICT Academy & Infosys Foundation  (2024)  
+Covered Azure AI services , including machine learning, and AI  video indexer.  
+• Data Analytics with Cloud  – NEXTGEN EMPLOYABILITY PROGRAMME  (2023)  
+       Conducted  data analytics using Power BI  and Azure Cloud , creating interactive dashboards.  
+ 
+Work Experience  /Internship s 
+Data Analytics  Intern  | IBM Skills Build  - virtual                             Jan 2023 - Feb 2023   
+• Analyzed "Super Store" data using Google Colab , Pandas  and Matplotlib  to uncover business trends.  
+• Developed reports  and visualizations  to support data-driven decision -making  and enhance operational 
+efficiency.  
+Full Stack Web Development Intern | EY GDS - virtual                           Feb 2024 - Apr 2024  
+• Developed Django -based web applications  with dynamic pages  and database managemen t 
+• Contributed to development  and deployment, ensuring code quality and security best practices . 
+Projects  
+Super Store Data Insights and Optimization  
+• Analyzed superstore data to derive actionable insights  for optimizing operations  and enhancing customer 
+satisfaction . Utilized advanced techniques  for data collection , cleaning , and interpretation , presenting 
+findings through impactful visualizations  and reports . 
+Django Voting System Development  
+• Developed a Django -based voting web application , demonstrating expertise in web development  
+and application design. Applied technical skills  to build a functional and user -friendly voting 
+system , contributing to robust solutions and enhanced problem -solving capabilities . 
+Video Insights with Azure AI Video Indexer  
+• Utilized Azure AI Video Indexer  to extract actionable insights  from video content, enhancing media 
+management  and asset utilization . Analysed  audio  and visual data  to improve ad insertion  and content 
+organization , achieving these outcomes without requiring advanced machine learning expertise . 
+Friendship Chronicles  
+• Created  a WordPress website  themed around friendship , featuring photos  and memories  of BTech 
+friends.  
+ 
+Positions Of Responsibility  
+• Team Lead for Azure AI Video Indexer Project:  Led a team of 5 to deliver a video analysis project, 
+focusing on effective execution  and actionable insights . 
+• Webcasting Coordinator  for Elections: Managed and executed webcasting  for elections, ensuring 
+seamless  and accurate broadcasts . 
+ 
+ 

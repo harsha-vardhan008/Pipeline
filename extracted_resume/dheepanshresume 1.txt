@@ -1,0 +1,41 @@
+DHEEPANSH MAHESHWARAM  
+9182180600  | maheshwaramdheepansh2002 @gmail .com | Hyderabad , INDIA  | www.linkedin.com/in/dheepansh -m 
+ 
+ 
+SUMMARY  
+A dedicated student with strong academic background and who always believes in hardwork and moves 
+with a passion to achieve goals. Spends more time in learning new things. Demonstrates excellent time 
+management and organisational skills. Enthusiastic in both learning and teaching. Adaptable for team 
+collabortions and quick learning.Constant searching for opp ortunities for learning and applying knowledge to 
+real-world challenges and building career step by step.  
+EDUCATION  
+Bachelor  of Technology – Computer Science and Engineering (Data Science)   
+TKR College of Engineering & Technology  CGPA -8.70/10.0             2025 
+Intermediate/+2 - MPC  | Sri Gayatri Junior College  PERCENTAGE -92.9%    2020 
+10th Standard  | Lotus Lap High School       CGPA -9.20/10.0              2018 
+ 
+TECHNICAL SKILLS  
+Programming Languages: Java, Python , SQL            Database Applications:  MySQL , DBAPI using Python  
+Data Analytics and Business Intelligence:  Tableau  
+PROJECTS  
+FACIAL EMOTION RECOGNITION SYSTEM FOR DRIVERS  2025- Present  
+Currently working on an ongoing data science project focused on facial emotion recognition.  
+  - The project leverages computer vision and deep learning techniques, particularly convolutional neural 
+networks (CNNs), to analyze and classify emotions from facial expressions.  
+  - Involves the end -to-end process, including data collection, preprocessing, model training, and evaluation.  
+  - The system aims to provide practical applications in fields such as driver behavior analysis, mental health 
+monitoring, and enhanced user interaction  
+CINEMA BOOKING SYSTEM  2023-24 
+Designed a front -end website for a sample application based on a cinema booking system using HTML and CSS, 
+meeting basic requirements for user interface design.  
+  - Integrated the back -end database with the front -end using PHP to handle basic operations such as user 
+authentication through username and password.  
+  - The application allows users to select movies and seats, confirm ticket bookings, and interact with a dynamic 
+web interface for cinema -related services.  
+CERTIFICATIONS  & ACHIEVEMENTS  
+- Organized a 24hr hackathon termed as “TKR HACK CONQUEST 1.0”  2025 
+- Python web Developer Course from ICT ACADEMY                                                                                          2024 
+- Organized a tech fest termed as “AVINYOTSAV”                                                                                                2024 
+- Supervised Machine Learning  Course from Coursera                                                                                         2023 
+- The Joy Of Computing using Python Course from NPTEL                                                                                2023  
+- Employment skills Course from TKRCET                                                                                                                2022  

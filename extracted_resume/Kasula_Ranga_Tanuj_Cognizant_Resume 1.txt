@@ -1,0 +1,49 @@
+Kasula Ranga Tanuj
+♂¶ap-¶arker-altHyderabad, India /envel⌢pekasularangatanuj@gmail.com ♂phone-alt+91 83670 16224 /linkedin-inK R Tanuj
+/githubTanuj52
+Profile
+Aspiring software developer with a strong foundation in computer science, skilled in full-stack development, machine learning,
+and data analysis. Proficient in leveraging programming expertise to create scalable and efficient solutions for real-world
+problems.
+Education
+TKR College of Engineering and Technology
+BTech in CSE(Data Science), CGPA: 9.04/10Oct 2021 – Present
+Kendriya Vidyalaya Upper Camp, Dehradun
+Intermediate (10+2), Percentage: 95.6%2019 – 2021
+Vasavi Vidyaniketan
+SSC (Class 10), GPA: 10/102018 – 2019
+Skills
+Languages: Java, Python, JavaScript, R, C.
+Web Development: HTML, CSS, PHP, React, Node, Tailwind, Figma.
+Databases: MongoDB, SQL.
+Tools: Git, GitHub, AWS, IBM Cloud.
+Analytics: Tableau, Power BI, NumPy, Pandas, Scikit-learn.
+Certifications
+Google Data Analytics Professional Certificate Coursera
+Google Cybersecurity Professional Certificate Coursera
+AWS Cloud Practitioner Essentials Coursera
+Google Prompting Essentials Coursera
+Google AI Essentials Coursera
+Programming, Data Structures and Algorithms using Python NPTEL
+Work Experience
+Intern in Artificial Intelligence and Machine Learning (May 2024- Present) IIIT Hyderabad
+◦Completed 6-month AI/ML training on model development, data preprocessing, and performance evaluation.
+◦Contributed to research projects on facial registration systems and biometric authentication using DL techniques.
+Projects
+Machine Learning System for Plant Disease Classification
+◦Developed an ML model to classify plant diseases with 90% accuracy using CNNs, processing more than 5,000 images
+for training and validation.
+Industrial Analysis Dashboards with Power BI
+◦Designed interactive dashboards to analyze industrial metrics, improving decision-making efficiency by 25%.
+◦Utilized advanced Power BI features, including DAX queries and data modeling, for comprehensive reporting.
+Machine Learning Models for Prediction
+◦Built regression and classification models for car cost prediction, mileage estimation, and credit risk analysis with up to
+85% accuracy.Optimized models using hyper-parameter tuning and cross-validation to improve predictive performance.
+News Application Using React
+◦Developed a dynamic news application using React and integrated the News API to fetch real-time updates.
+◦Designed a responsive interface and implemented state management for efficient data handling .
+Publications
+Dynamic Auto-Finetuning of Language Models Based on Confidence Driven Knowl-
+edge Integration /external-link-altNovember 2024
+Global Remote RAM Sharing: A Novel Framework for Distributed Computational
+Systems /external-link-altDecember 2024
